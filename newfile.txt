@@ -1,1 +1,2 @@
 It's new file.
+this file is special. branch edition.
